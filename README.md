@@ -32,4 +32,4 @@ com foco em automação de testes e melhoria contínua da qualidade de software.
 - Metodologias Ágeis Scrum/Kanban
 
 ## Projetos 
-- Automação de API - Serverest
+- Automação de API - api-tests-serverest
