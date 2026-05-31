@@ -1,4 +1,5 @@
 # Maria Eduarda Parrela
+QA Júnior | Automação de Testes | Cypress | Java | Python | SQL | API Testing
 
 Analista de Testes Júnior com experiência em testes manuais e automação. Possuo conhecimentos em Cypress, Java, Python, SQL e testes de API, aplicados em projetos práticos voltados à qualidade de software.
 
