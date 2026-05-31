@@ -1,5 +1,5 @@
-# Maria Eduarda Parrela
-QA Júnior | Automação de Testes | Cypress | Java | Python | SQL | API Testing
+# Maria Eduarda Parrela 
+QA Júnior | Automação de testes | Java | Cypress | Python | SQL | Testes de API
 
 📍 São Paulo - SP
 
