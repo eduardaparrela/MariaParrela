@@ -2,7 +2,7 @@
 
 Analista de Testes Júnior com experiência em testes manuais e automação. Possuo conhecimentos em Cypress, Java, Python, SQL e testes de API, aplicados em projetos práticos voltados à qualidade de software.
 
-## Tecnologias
+# Tecnologias
 
 - Cypress
 - Java
@@ -12,5 +12,5 @@ Analista de Testes Júnior com experiência em testes manuais e automação. Pos
 - Testes de API
 - Metodologias Ágeis
 
-## Projetos em Destaque
+## Projetos 
 - Automação de API
